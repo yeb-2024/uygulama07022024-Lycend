@@ -66,7 +66,6 @@ public class LoginScreen extends JFrame implements ActionListener {
     usersList.add(new Users("Bedirhan","bedo61","images.png","Devoloper, Fullstack"));
     usersList.add(new Users("Sulo","sulo1903","images.png","Devoloper, Fullstack"));
     usersList.add(new Users("Seyfo","seyf43","images.png","Devoloper, Fullstack"));
-    usersList.add(new Users("Apo","apo58","images.png","Devoloper, TrashStack"));
   }
 
   private ImageIcon resizeImage(String image){
